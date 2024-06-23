@@ -51,6 +51,7 @@ Where to place a dashboard config file?
 * `project_folder/dashboards`  (05-monitoring/dashboards)
 * `project_folder/data`  (05-monitoring/data)
 
+R/ `project_folder/dashboards`  (05-monitoring/dashboards)
 
 ## Submit the results
 
