@@ -15,6 +15,7 @@ What is the shape of the downloaded data? How many rows are there?
 * 57457
 * 54396
 
+R/ 57457
 
 ## Q2. Metric
 
@@ -36,6 +37,7 @@ What is the maximum value of metric `quantile = 0.5` on the `"fare_amount"` colu
 * 14.2
 * 14.8
 
+R/ 14.2
 
 ## Q4. Dashboard
 
